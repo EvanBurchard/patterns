@@ -1,0 +1,3 @@
+With Rails, and so many great gems around, sometimes good old fashioned OOP gets swept under the rug.  Hopefully these examples demonstrate when one might apply patterns.  
+
+All of the examples of pattern usages here are adapted from Russ Olsen's Book: Design Pattens in Ruby.
